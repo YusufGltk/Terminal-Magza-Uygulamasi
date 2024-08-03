@@ -14,3 +14,5 @@
 <p>- Ürün Ekleme: Adminler yeni ürünler ekleyebilirler. </p>
 <p>- Ürün Kaldırma: Adminler mevcut ürünleri kaldırabilirler.</p>
 
+
+![Admin-girişi](https://github.com/user-attachments/assets/84d74845-95a6-436b-aed0-9c3cd42c5d3c)
